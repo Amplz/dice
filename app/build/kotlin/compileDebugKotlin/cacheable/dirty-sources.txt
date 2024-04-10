@@ -1,0 +1,4 @@
+D:\KULIAH\SEMESTER 2\diceroll\app\src\main\java\com\example\diceroll\ui\theme\Type.kt
+D:\KULIAH\SEMESTER 2\diceroll\app\src\main\java\com\example\diceroll\ui\theme\Theme.kt
+D:\KULIAH\SEMESTER 2\diceroll\app\src\main\java\com\example\diceroll\MainActivity.kt
+D:\KULIAH\SEMESTER 2\diceroll\app\src\main\java\com\example\diceroll\ui\theme\Color.kt
